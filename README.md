@@ -9,7 +9,12 @@
 ### 1_copy_file_to_path.sh 文件复制
 ### 2_install_docker.sh 离线安装docker
 ### install.sh 安装docker所需脚本
-## install-docker.sh 安装docker脚本
+## .install-docker.sh 安装docker脚本
+## 安装
+### chmod 755 ./install-docker.sh
+### chmod 755 ./file/docker-compose
+### chmod -R 755 ./script/
+### 执行 ./install-docker.sh
 
 ## 参考
 ### docker离线安装包
